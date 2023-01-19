@@ -20,39 +20,39 @@ h1{
     padding: 40px;
     
 }
+
 p{
     margin-bottom: 40px;
 }
 
 .contain{
-    width: 33%;
+    width: 31%;
     background-color:#0f0e17;
     display: inline-block;
+    margin: 8px;
+}
+ 
+.row{
+    padding: 10px;
 }
 
 
-/* .row1 div{
-    width: 33%;
-    background-color:#0f0e17;
-} */    
-
-
-/* .clearfix  */
+/* clearfix  */
 div {
-    overflow: auto;
-    
-  }
+    overflow: auto;  
+}
+  /* /clearfix  */
   
-  img{
-      float: left;
-      height: 40%;
-      width: 40%;
-      margin-right: 10px;
-  }
+img{
+    float: left;
+
+    width: 31%;
+    margin-right: 10px;
+}
 
 h3,section{
     color: white;
-    margin: 21px;
+    margin: 10px;
 }
 section:last-of-type{
     color:#22b7f7;
